@@ -9,14 +9,14 @@
 
 ### Vine Reviews
 
-![vine_reviews](images/vine_reviews.png)
+![vine_reviews](vine_reviews.png)
 * There are a total of 4,781 reviews
 * 1,604 reviews have 5 star ratings
 * About 33% of the reviews are rated at 5 stars
 
 ### Non-Vine Reviews
 
-![non-vine_reviews](images/non-vine_reviews.png)
+![non-vine_reviews](non-vine_reviews.png)
 * There are a total of 332,395 reviews
 * 168,800 reviews have 5 star ratings
 * About 50% of the reviews are rated at 5 stars
